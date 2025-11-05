@@ -1,0 +1,53 @@
+
+body { 
+    font-family: "Inter", sans-serif;
+}
+
+p { 
+    color: rgb(119, 119, 119);
+}
+.text-h1 { 
+    text-align: center;
+    font-size: 36px;
+    color: rgb(70, 70, 70);
+}
+
+.text-pic { 
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top:16px;
+    gap:127px;
+    text-align: center;
+    align-items: center;
+}
+
+.main-text { 
+    text-align: center;
+}
+
+.block-2 { 
+    max-width: 1440px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+.block-text { 
+    text-align: start;
+    padding-left: 50px;
+}
+.big-text { 
+    font-size: 36px;
+}
+
+.green-button { 
+    background-color: green;
+    width: 151px;
+    height: 52px;
+    border: none;
+    color: white;
+}
+
